@@ -1,0 +1,5 @@
+3个xml文件为OpenCV自带的级联器
+
+jpg文件为经典被测头像
+
+opencv自带的级联器在安装目录opencv\build\etc\haarcascades中
